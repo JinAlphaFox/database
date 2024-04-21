@@ -7,5 +7,11 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "potions": [
+    {
+      "id": 1,
+      "name": "Raid boule"
+    }
+  ]
 }
